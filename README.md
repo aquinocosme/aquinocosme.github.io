@@ -1,8 +1,8 @@
 # **Cosme Aquino Ovelar**
 ## Outreach 
 ## Education 
-* B.S in Astrophysics with a minor in Mathematics and a Certificate in Data Analytics from the University of Oklahoma | 2024
-* Incoming Master student in Astrophysics at Rheinische Friedrich-Wilhelms-Universität | 2024-2026
+* B.S in Astrophysics with a minor in Mathematics and a Certificate in Data Analytics from the University of Oklahoma 2024
+* Incoming Master student in Astrophysics at Rheinische Friedrich-Wilhelms-Universität  2024-2026
 
 ## Research Interests
 ## CV
