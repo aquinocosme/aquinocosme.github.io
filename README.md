@@ -1,6 +1,6 @@
 # **Cosme Aquino Ovelar**
 ## Outreach 
-* Talk about Stellar Evolution with Ciencia del Sur: Fundamental Concepts and Current Areas of Research.
+* [Talk about Stellar Evolution with Ciencia del Sur: Fundamental Concepts and Current Areas of Research.](https://cienciasdelsur.com/2024/09/05/astrofisico-paraguayo-dictara-charla-gratuita-sobre-evolucion-estelar/)
 ## Education 
 * Incoming Master student in Astrophysics at Rheinische Friedrich-Wilhelms-Universität  2024-2026
 * B.S in Astrophysics with a minor in Mathematics and a Certificate in Data Analytics from the University of Oklahoma 2024
