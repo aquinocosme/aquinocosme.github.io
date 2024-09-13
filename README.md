@@ -1,5 +1,6 @@
 # **Cosme Aquino Ovelar**
-![GP1E-j5WYAAiKn1](https://github.com/user-attachments/assets/d3718c0a-007d-485c-a7a9-aa6d1dfc649f)
+<img src="https://github.com/user-attachments/assets/d3718c0a-007d-485c-a7a9-aa6d1dfc649f" alt="GP1E-j5WYAAiKn1" width="300" height="300"/>
+
 
 ## Outreach 
 * [Talk about Stellar Evolution with Ciencia del Sur: Fundamental Concepts and Current Areas of Research.](https://cienciasdelsur.com/2024/09/05/astrofisico-paraguayo-dictara-charla-gratuita-sobre-evolucion-estelar/)
