@@ -22,7 +22,7 @@ author: Cosme Aquino Ovelar
 navbar-links:
   About Me: "aboutme"
   Research Interests: "researchinterests"
-  CV: "cv"
+  CV: <a href="cv.pdf" target="_blank">View CV</a>
   Spotlight & Outreach: "spotlightAndOutreach"
 
 
