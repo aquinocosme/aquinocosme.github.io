@@ -8,6 +8,7 @@ title: Spotlight & Outreach
 ## Spotlight
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ts8EwZMLLds/embed/ts8EwZMLLds" 
 frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * [UReCA Undergradaute Fellow - The University of Oklahoma 2023-2024](https://www.youtube.com/watch?v=ts8EwZMLLds&t=6s)
 * [Texas Astronomy Undergraduate Research experience for Under-represented Students Scholar - UT Austin 2022](https://taurusastronomy.blogspot.com/2022/07/taurus-scholar-spotlight-cosme-aquino.html)
 * [Interview with Ciencia del Sur ](https://cienciasdelsur.com/2018/01/27/cosme-aquino-olimpiada-astronomia-paraguay/)
