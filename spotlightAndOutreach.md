@@ -2,7 +2,6 @@
 layout: page
 title: Spotlight & Outreach
 ---
-
 ## Outreach 
 * [Talk about Stellar Evolution with Ciencia del Sur: Fundamental Concepts and Current Areas of Research.](https://cienciasdelsur.com/2024/09/05/astrofisico-paraguayo-dictara-charla-gratuita-sobre-evolucion-estelar/)
 
