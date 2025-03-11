@@ -6,8 +6,8 @@ title: Spotlight & Outreach
 * [Talk about Stellar Evolution with Ciencia del Sur: Fundamental Concepts and Current Areas of Research.](https://cienciasdelsur.com/2024/09/05/astrofisico-paraguayo-dictara-charla-gratuita-sobre-evolucion-estelar/)
 
 ## Spotlight
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ts8EwZMLLds/embed/ts8EwZMLLds" 
-frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ts8EwZMLLds" 
+frameborder="0" allowfullscreen></iframe>
 
 * [UReCA Undergradaute Fellow - The University of Oklahoma 2023-2024](https://www.youtube.com/watch?v=ts8EwZMLLds&t=6s)
 * [Texas Astronomy Undergraduate Research experience for Under-represented Students Scholar - UT Austin 2022](https://taurusastronomy.blogspot.com/2022/07/taurus-scholar-spotlight-cosme-aquino.html)
