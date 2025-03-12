@@ -5,7 +5,7 @@ subtitle: Un atentat
 cover-img: /assets/img/agua.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/agua.jpg
-tags: [writting]
+tags: [books]
 author: Cosme Aquino Ovelar
 ---
 El agua ha sido un elemento fundamental en la historia de la humanidad, no solo por su importancia vital, sino también por su profundo impacto en el arte y la cultura.
