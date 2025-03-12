@@ -2,9 +2,9 @@
 layout: post
 title: Ensayos de Agua
 subtitle: Un atentat
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/agua.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/agua.jpg
 tags: [writting]
 author: Cosme Aquino Ovelar
 ---
