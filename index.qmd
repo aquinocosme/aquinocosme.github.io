@@ -8,6 +8,6 @@ Welcome! Here I post about academics and some of the work I find cool.
 
 I am a master's student at the [The University of Bonn](https://www.uni-bonn.de/en/home) in the program of Astrophysics, and I am fully supported by the [Bonn-Cologne Graduate School Scholarship](https://www.gradschool.physics.uni-bonn.de/). Previously, I attended [The University of Oklahoma](https://www.ou.edu/) as [David United World College Scholar](https://www.davisuwcscholars.org/about-us), from where I got a Bachelor of Science degree in Astrophysics.
 
-This summer, I will be working on X-ray emissions of galaxy clusters, and I am keen on exploring other fields within astrophysics.
+This summer, I will be working on X-ray emissions of galaxy clusters, and I am keen on exploring other fields within astrophysics!
 
 ![](images/IMG_1134%20(1).JPG){fig-align="left" width="300"}
