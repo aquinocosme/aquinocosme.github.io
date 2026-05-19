@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "spotlight.html",
+    "href": "spotlight.html",
+    "title": "Spotlight",
+    "section": "",
+    "text": "Undergraduate Research: Astrophysics with Cosme Aquino Ovelar | University of Oklahoma"
+  },
+  {
+    "objectID": "spotlight.html#ureca-undergraduate-research-and-creative-activity",
+    "href": "spotlight.html#ureca-undergraduate-research-and-creative-activity",
+    "title": "Spotlight",
+    "section": "",
+    "text": "Undergraduate Research: Astrophysics with Cosme Aquino Ovelar | University of Oklahoma"
+  },
+  {
+    "objectID": "spotlight.html#taurus",
+    "href": "spotlight.html#taurus",
+    "title": "Spotlight",
+    "section": "TAURUS",
+    "text": "TAURUS\nIn the summer of 2022 I was part of the Texas Astronomy Undergraduate Research experience for Underrepresented Minorities Program. An initiative by the Astronomy Department at the University of Austin, Texas. I worked with Dr. Juan Pablo Farias performing N-body simulations of stellar association collisions:\nTAURUS Scholar Spotlight: Cosme Aquino Ovelar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cosme Aquino Ovelar",
+    "section": "",
+    "text": "Welcome! Here I post about academics and some of the work I find cool."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Cosme Aquino Ovelar",
+    "section": "Bio",
+    "text": "Bio\nI am a master’s student at the The University of Bonn in the program of Astrophysics, and I am fully supported by the Bonn-Cologne Graduate School Scholarship. Previously, I attended The University of Oklahoma as David United World College Scholar, from where I got a Bachelor of Science degree in Astrophysics.\nThis summer, I will be working on X-ray emissions of galaxy clusters, and I am keen on exploring other fields within astrophysics!"
+  },
+  {
     "objectID": "volunteering.html",
     "href": "volunteering.html",
     "title": "Volunteering",
@@ -33,40 +68,5 @@
     "title": "Simulations",
     "section": "A Rod-Pendulum System",
     "text": "A Rod-Pendulum System\nExploring a common physics problem using SymPy library."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cosme Aquino Ovelar",
-    "section": "",
-    "text": "Welcome! Here I post about academics and some of the work I find cool."
-  },
-  {
-    "objectID": "index.html#bio",
-    "href": "index.html#bio",
-    "title": "Cosme Aquino Ovelar",
-    "section": "Bio",
-    "text": "Bio\nI am a master’s student at the The University of Bonn in the program of Astrophysics, and I am fully supported by the Bonn-Cologne Graduate School Scholarship. Previously, I attended The University of Oklahoma as David United World College Scholar, from where I got a Bachelor of Science degree in Astrophysics.\nThis summer, I will be working on X-ray emissions of galaxy clusters, and I am keen on exploring other fields within astrophysics."
-  },
-  {
-    "objectID": "spotlight.html",
-    "href": "spotlight.html",
-    "title": "Spotlight",
-    "section": "",
-    "text": "Undergraduate Research: Astrophysics with Cosme Aquino Ovelar | University of Oklahoma"
-  },
-  {
-    "objectID": "spotlight.html#ureca-undergraduate-research-and-creative-activity",
-    "href": "spotlight.html#ureca-undergraduate-research-and-creative-activity",
-    "title": "Spotlight",
-    "section": "",
-    "text": "Undergraduate Research: Astrophysics with Cosme Aquino Ovelar | University of Oklahoma"
-  },
-  {
-    "objectID": "spotlight.html#taurus",
-    "href": "spotlight.html#taurus",
-    "title": "Spotlight",
-    "section": "TAURUS",
-    "text": "TAURUS\nIn the summer of 2022 I was part of the Texas Astronomy Undergraduate Research experience for Underrepresented Minorities Program. An initiative by the Astronomy Department at the University of Austin, Texas. I worked with Dr. Juan Pablo Farias performing N-body simulations of stellar association collisions:\nTAURUS Scholar Spotlight: Cosme Aquino Ovelar"
   }
 ]
