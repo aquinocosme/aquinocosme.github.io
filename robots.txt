@@ -1,1 +1,1 @@
-Sitemap: https://aquinocosme.github.io/aquinocosme/sitemap.xml
+Sitemap: https://aquinocosme.github.io/sitemap.xml
